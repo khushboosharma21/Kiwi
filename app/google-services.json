@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256509572324",
+    "project_id": "kiwi-bdf18",
+    "storage_bucket": "kiwi-bdf18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256509572324:android:a6752dab72d1dc203368f1",
+        "android_client_info": {
+          "package_name": "com.example.kiwichatclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256509572324-t4ofqrdgqi7f1jo8r029vk94tn7htogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0zVY632DXu01cZ-aAf6X4tTwk3TH1lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256509572324-t4ofqrdgqi7f1jo8r029vk94tn7htogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
